@@ -14,9 +14,4 @@ def query(term):
     html = requests.get(url,params=None,headers=header)
     results = html.json()
 
-    resultlist = []
-    
-    for result in results["res"]["sug"]:
-        resultlist.append(result)
-
-    return resultlist
+    return results["res"]["sug"]
