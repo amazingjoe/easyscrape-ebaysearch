@@ -1,4 +1,18 @@
-# easyscrape-ebaysuggest
+Metadata-Version: 2.1
+Name: easyscrape-ebaysuggest
+Version: 0.1.1
+Summary: Easy web scraping for Ebay search bar suggested terms
+Home-page: https://github.com/amazingjoe/easyscrape-ebaysuggest
+Author: Joseph Ucuzoglu
+Author-email: baldmancodes@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# easyscrape-ebaysearch
 Scrape Ebay search suggestions in Python
 
 <img src="https://github.com/amazingjoe/amazingjoe.github.io/blob/main/imgs/Easyscrape.png" width="50%"/>
